@@ -1,0 +1,33 @@
+{
+  "name": "heroes-sort",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Kse09/HW_JS_Heroes_sort#readme",
+  "bugs": {
+    "url": "https://github.com/Kse09/HW_JS_Heroes_sort/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kse09/HW_JS_Heroes_sort.git"
+  },
+  "license": "ISC",
+  "author": "Kse09",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@babel/cli": "^8.0.6",
+    "@babel/core": "^8.0.7",
+    "@babel/preset-env": "^8.0.7",
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.12.0",
+    "globals": "^17.13.0",
+    "jest": "^30.5.2"
+  },
+  "dependencies": {
+    "core-js": "^3.50.0"
+  }
+}

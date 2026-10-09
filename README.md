@@ -1,0 +1,1 @@
+![CI](https://github.com/Kse09/HW_JS_Heroes_sort/actions/workflows/ci.yml/badge.svg)
